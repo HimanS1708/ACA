@@ -3,13 +3,14 @@ import "./style.css";
 import { useState } from "react";
 import logo from "../../assets/logo_bg_removed.png"
 import { HashLink as NavLink } from "react-router-hash-link";
-
+import About from "../About";
 const Navbar = () => {
   const [isOpen, setIsopen] = useState(false);
   const toggle = () => setIsopen(!isOpen);
 
   return (
     <>
+    {/* {about = document.getElementById('about')} */}
     <div>
     <section className="navbar-container z-50" data-scroll-container>
     <div className="nav-logo">

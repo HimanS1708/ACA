@@ -20,16 +20,7 @@ function App() {
       <About />
       <Event />
       <Faculty />
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
       <Projects/>
-       <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
       <Contacts/>
       <Footer1/>
     </div>
