@@ -34,14 +34,14 @@ const Navbar = () => {
               About
             </p>
           </NavLink>
-          <NavLink to="#faculty" smooth duration={500} className="navlink md:cursor-pointer  md:hover:text-blue-400 md:duration-500">
-            <p>
-              Awards
-            </p>
-          </NavLink>
           <NavLink to="#events" smooth duration={500} className="navlink md:cursor-pointer  md:hover:text-blue-400 md:duration-500">
             <p>
               Events
+            </p>
+          </NavLink>
+          <NavLink to="#faculty" smooth duration={500} className="navlink md:cursor-pointer  md:hover:text-blue-400 md:duration-500">
+            <p>
+              Awards
             </p>
           </NavLink>
           <NavLink to="#projects" smooth duration={500} className="navlink md:cursor-pointer  md:hover:text-blue-400 md:duration-500">

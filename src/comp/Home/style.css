@@ -1,27 +1,4 @@
-.heading{
-    font-size:60px;
-    color:white;
-    display: flex;
-    padding-left: 30px;
-    font-weight: 600;
-}
 
-.home-container{
-    height:100vh;
-}
-
-.content{
-    font-size:150%;
-    color:white;
-    display: flex;
-    padding-left:30px;
-    padding-top: 20px;
-    padding-bottom: 100px;
-    padding-right: 20px;
-    width:35em;
-    text-align:left;
-    justify-items: start;
-}
 
 @media screen and (max-width: 1040px){
     .content{

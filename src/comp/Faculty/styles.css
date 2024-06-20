@@ -42,7 +42,7 @@
 }
 
   .card {
-    border-radius: 100px;
+    border-radius: 1.5em;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     width: 250px;
     height: 150px;
@@ -50,10 +50,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(238, 243, 142);
+    /* background-color: rgb(238, 243, 142); */
+    background: linear-gradient(180.3deg, rgb(221, 221, 221) 5.5%, rgb(110, 136, 161) 90.2%);
     color:black
   }
-  button {
+  .faculty-container > .buttons > button {
     margin: 20px;
     background-color: rgb(238, 243, 142);
     border: transparent;
