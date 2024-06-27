@@ -3,12 +3,13 @@ import Home from './comp/Home';
 import Navbar from './comp/Navbar';
 
 import Event from './comp/Events';
-import Faculty from './comp/Faculty';
+// import Faculty from './comp/NewsEvents';
 import { useEffect } from 'react';
 import Footer1 from './comp/Footer1' 
 import Projects from './comp/Projects';
 import About from './comp/About'
 import Contacts from './comp/Contacts';
+import NewsEvents from './comp/NewsEvents/NewsEvents';
 function App() {
   useEffect(() => {
     document.title = 'ACA'
@@ -19,7 +20,7 @@ function App() {
       <Home/>
       <About />
       <Event />
-      <Faculty />
+      <NewsEvents />
       <Projects/>
       <Contacts/>
       <Footer1/>

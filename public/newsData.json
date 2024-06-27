@@ -1,0 +1,39 @@
+[
+    
+    {
+      "title": "Small bursts can offer big changes",
+      "description": "A study by Massachusetts General Hospital has found that 12-minute exercise bursts demonstrated an uptick in circulating metabolites, which govern insulin resistance, stress, inflammation, and longevity.",
+      "image": "https://www.cse.iitk.ac.in/users/isaha/profile2.jpg"
+    },
+    {
+      "category": "BRAIN",
+      "description": "Exercise can improve cognition for those with Alzheimer's",
+      "image": "https://www.cse.iitk.ac.in/profileimages/mainakc.jpg"
+    },
+    {
+      "category": "JOINTS",
+      "description": "Reduce chronic inflammation through exercise",
+      "image": "https://www.cse.iitk.ac.in/profileimages/manindra.jpg"
+    },
+    {
+      "category": "MOOD",
+      "description": "Exercise helps to lower the risk of depression",
+      "image": "https://www.cse.iitk.ac.in/profileimages/nitin.jpg"
+    },
+    {
+      "category": "CANCER",
+      "description": "Lack of exercise could contribute to an increased cancer risk",
+      "image": "https://www.cse.iitk.ac.in/users/rtewari/jabalpur.jpg"
+    },
+    {
+      "category": "BONES",
+      "description": "Exercise aids in overall bone health",
+      "image": "https://static.wixstatic.com/media/d77389_5645c8268f0c42508f2ecb15aa941aca~mv2.png/v1/fill/w_341,h_394,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Priyanka_Bagade_1.png"
+    },
+    {
+      "category": "STRESS",
+      "description": "Alleviate stress with exercise",
+      "image": "https://cse.iitk.ac.in/users/rmittal/me.jpg"
+    }
+  ]
+  
