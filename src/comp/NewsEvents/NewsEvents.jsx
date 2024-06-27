@@ -42,6 +42,7 @@
 // export default Faculty;
 // NewsEvents.js
 import React, { useEffect, useState } from 'react';
+
 import './NewsEvents.css';
 
 const NewsEvents = () => {
